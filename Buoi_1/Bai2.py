@@ -7,7 +7,7 @@ BÀI 2: TÍNH TUỔI
     Hiển thị thông báo kết quả:
         Bạn "NGUYỄN THỊ THU THỦY" năm nay 21 tuổi!
 """
-# Input
+
 import datetime
 now = datetime.datetime.now()
 year = '{:02d}'.format(now.year)
@@ -18,4 +18,4 @@ hoten = input('Họ tên: ')
 namsinh = int(input('Năm sinh: '))
 tuoi = int((int(year) - namsinh))
 
-print('Bạn "', ten, '" năm nay', tuoi,'tuổi')
+print('Bạn "', hoten, '" năm nay', tuoi,'tuổi')
