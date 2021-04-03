@@ -1,1 +1,1 @@
-Python basic
+Basic python
