@@ -1,1 +1,1 @@
-### TỔNG HỢP CÁC KIẾN THỨC CƠ BẢN VỀ PYTHON
+Python basic
